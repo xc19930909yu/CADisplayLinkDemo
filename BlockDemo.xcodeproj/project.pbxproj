@@ -80,9 +80,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		02DA2A2D210892D000E5970E /* BlockExtension */ = {
+			isa = PBXGroup;
+			children = (
+				3AA6D0F420FC860E0036EEF3 /* ZSExtension.swift */,
+			);
+			path = BlockExtension;
+			sourceTree = "<group>";
+		};
 		3AA6D0B620FC83BD0036EEF3 = {
 			isa = PBXGroup;
 			children = (
+				02DA2A2D210892D000E5970E /* BlockExtension */,
 				3AA6D0C120FC83BD0036EEF3 /* BlockDemo */,
 				3AA6D0D620FC83BE0036EEF3 /* BlockDemoTests */,
 				3AA6D0E120FC83BE0036EEF3 /* BlockDemoUITests */,
@@ -106,7 +115,6 @@
 				3AA6D0C220FC83BD0036EEF3 /* AppDelegate.swift */,
 				3AA6D0C420FC83BD0036EEF3 /* ViewController.swift */,
 				3AA6D0F220FC84670036EEF3 /* SecondViewController.swift */,
-				3AA6D0F420FC860E0036EEF3 /* ZSExtension.swift */,
 				3AA6D0F020FC83E70036EEF3 /* UserModel.swift */,
 				3AA6D0C620FC83BD0036EEF3 /* Main.storyboard */,
 				3AA6D0C920FC83BE0036EEF3 /* Assets.xcassets */,
